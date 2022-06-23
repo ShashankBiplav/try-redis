@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "ioredis": "^4.28.2",
-    "node-fetch": "^3.1.0",
+    "node-fetch": "^3.1.1",
     "redis": "^4.0.1",
     "redis-json": "^6.0.2"
   },
